@@ -16,3 +16,31 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+.h-watermelon {
+  font-family: "Rammetto One", sans-serif;
+}
+
+.h-starfruit {
+  font-family: "Gravitas One", cursive;
+}
+
+.h-persimmon {
+  font-family: Comfortaa, sans-serif;
+}
+
+.watermelon {
+  background-color: #e97065;
+}
+
+.starfruit {
+  background-color: #fbd25e;
+}
+
+.persimmon {
+  background-color: #e86033;
+}
